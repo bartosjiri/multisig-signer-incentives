@@ -2,6 +2,16 @@
 
 `🚧 @TODO`
 
+`@TODO: Data collection period`
+
+`@TODO: Data collection sources`
+
+`@TODO: Data sources vs origin of unsourced data`
+
+`@TODO: What is a difference between "voted in through proposal" and "voted in through elections"?`
+
+`@TODO: Signers without term = generally nominated by proposers`
+
 ---
 
 ### Frax Finance
@@ -72,7 +82,7 @@
 | `0x65bb797c2B9830d891D87288F029ed8dACc19705` | Ethereum | [Etherscan](https://etherscan.io/address/0x65bb797c2b9830d891d87288f029ed8dacc19705) | [Safe](https://app.safe.global/eth:0x65bb797c2B9830d891D87288F029ed8dACc19705) | [Multisight](https://multisight.app/safe/ethereum/0x65bb797c2B9830d891D87288F029ed8dACc19705) |
 
 - **Threshold/owners:** 3/6
-- **Owner appointment:** Project founders and members (?) ([source](https://hackmd.io/@-c0MLh5CTZOQ3HyKamAsvQ/SkFqB2OG5))
+- **Owner appointment:** Core project members (?) ([source](https://hackmd.io/@-c0MLh5CTZOQ3HyKamAsvQ/SkFqB2OG5))
 - **Owner incentives:** none
 
 ### Aave
@@ -103,7 +113,7 @@
 
 - **Threshold/owners:** `🚧 @TODO`
 - **Owner appointment:** Half of owners voted in through community elections every 12 months ([source](https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md))
-- **Owner incentives:** (unknown)
+- **Owner incentives:** n/a
 
 ### Gitcoin
 
@@ -118,7 +128,7 @@
 
 - **Threshold/owners:** `🚧 @TODO`
 - **Owner appointment:** Internal members nominated by Gitcoin Foundation, external members voted in through community elections, rotated every 180 days ([source](https://gov.gitcoin.co/t/proposal-v2-of-the-steward-council/11639#h-3-updates-to-the-selection-process-for-steward-council-members-5))
-- **Owner incentives:** Between $200 and $750 USD per month, depending on relationship to Gitcoin foundation ([source](https://gov.gitcoin.co/t/proposal-v2-of-the-steward-council/11639#h-2-steward-council-remuneration-4))
+- **Owner incentives:** Between 200 and 750 USD per month, depending on relationship to Gitcoin foundation ([source](https://gov.gitcoin.co/t/proposal-v2-of-the-steward-council/11639#h-2-steward-council-remuneration-4))
 - **Notes:**
   - Main governance body utilizes a governor & timelock system ([source](https://gov.gitcoin.co/t/gitcoin-dao-governance-process-v3/10358#gitcoins-gov-alpha-details-22))
   - Created a very detailed stewardship platform with token delegation, voting history and more ([source](https://delegate.gitcoin.co/))
@@ -153,7 +163,7 @@
 
 - **Threshold/owners:** 5/9
 - **Owner appointment:** Community members voted in through elections ([source](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x5f3b6ff62ae4b8535e057b4f3af2c85ec93762dac95031a014c409969e3a0fc8))
-- **Owner incentives:** 2000 [$GHST](https://www.coingecko.com/en/coins/aavegotchi) per 90 days ([source](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x345ddec87f19d29b438ac88d0f947798af6edadbe1116cb64f96edc931f06fb3))
+- **Owner incentives:** 2000 [GHST](https://www.coingecko.com/en/coins/aavegotchi) per 90 days ([source](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x345ddec87f19d29b438ac88d0f947798af6edadbe1116cb64f96edc931f06fb3))
 
 ### Decentraland DAO
 
@@ -166,7 +176,7 @@
 
 - **Threshold/owners:** 2/4
 - **Owner appointment:** Community members voted in through proposals
-- **Owner incentives:** 2400 USD in [$MANA](https://www.coingecko.com/en/coins/decentraland) per month ([source](https://governance.decentraland.org/proposal/?id=fa6a3040-338a-11ed-b361-67b98a1da2c8))
+- **Owner incentives:** 2400 USD in [MANA](https://www.coingecko.com/en/coins/decentraland) per month ([source](https://governance.decentraland.org/proposal/?id=fa6a3040-338a-11ed-b361-67b98a1da2c8))
 
 ### Balancer
 
@@ -181,7 +191,7 @@
 
 - **Threshold/owners:** 6/11
 - **Owner appointment:** Community members voted in through proposals
-- **Owner incentives:** 500 [$BAL](https://www.coingecko.com/en/coins/balancer) per 6 months ([source](https://snapshot.org/#/balancer.eth/proposal/0x62469e980c0bc935d5d3902e01f12e59ab16a88b2b9ee1278d507dacdbe8fb79))
+- **Owner incentives:** 500 [BAL](https://www.coingecko.com/en/coins/balancer) per 6 months ([source](https://snapshot.org/#/balancer.eth/proposal/0x62469e980c0bc935d5d3902e01f12e59ab16a88b2b9ee1278d507dacdbe8fb79))
 - **Notes:**
   - Signers can lose their role if they go through 3 months or 2 votes (which ever takes longer) without performing any of their duties ([source](https://docs.balancer.fi/concepts/governance/multisig.html#signer-duties))
 
@@ -195,7 +205,7 @@
 
 - **Threshold/owners:** 6/9
 - **Owner appointment:** Community members voted in through elections
-- **Owner incentives:** 1000 [$PEOPLE](https://www.coingecko.com/en/coins/constitutiondao) per month
+- **Owner incentives:** 1000 [PEOPLE](https://www.coingecko.com/en/coins/constitutiondao) per month
 
 ### Nexus Mutual DAO
 
@@ -215,7 +225,7 @@
 
 - **Threshold/owners:** 2/3
 - **Owner appointment:** Community members voted in through elections, rotated every 12 months in two groups 6 months apart ([source](https://forum.apecoin.com/t/aip-239-working-group-guidelines-the-governance-working-group-charter/11462))
-- **Owner incentives:** 9000 USD in [$APE](https://www.coingecko.com/en/coins/apecoin) per month (includes other duties)([source](https://forum.apecoin.com/t/aip-239-working-group-guidelines-the-governance-working-group-charter/11462))
+- **Owner incentives:** 9000 USD in [APE](https://www.coingecko.com/en/coins/apecoin) per month (includes other duties)([source](https://forum.apecoin.com/t/aip-239-working-group-guidelines-the-governance-working-group-charter/11462))
 
 ### Lido DAO
 
@@ -231,26 +241,26 @@
 **Pool Maintenance Labs** (`0x17F6b2C738a63a8D3A113a228cfd0b373244633D`)
 
 - **Threshold/owners:** 4/7
-- **Owner appointment:** Project members ([source](https://research.lido.fi/t/ref-introducing-the-lido-contributors-group-including-pool-maintenance-labs-and-argo-technology-consulting/3069))
-- **Owner incentives:** (unknown)
+- **Owner appointment:** Core project members ([source](https://research.lido.fi/t/ref-introducing-the-lido-contributors-group-including-pool-maintenance-labs-and-argo-technology-consulting/3069))
+- **Owner incentives:** n/a
 
 **Argo Technology Consulting** (`0x9B1cebF7616f2BC73b47D226f90b01a7c9F86956`)
 
 - **Threshold/owners:** 4/6
-- **Owner appointment:** Project members ([source](https://research.lido.fi/t/ref-introducing-the-lido-contributors-group-including-pool-maintenance-labs-and-argo-technology-consulting/3069))
-- **Owner incentives:** (unknown)
+- **Owner appointment:** Core project members ([source](https://research.lido.fi/t/ref-introducing-the-lido-contributors-group-including-pool-maintenance-labs-and-argo-technology-consulting/3069))
+- **Owner incentives:** n/a
 
 **Resourcing and Compensation Committee** (`0xDE06d17Db9295Fa8c4082D4f73Ff81592A3aC437`)
 
 - **Threshold/owners:** 4/6
 - **Owner appointment:** Community members voted in through proposals ([source](https://research.lido.fi/t/rcc-1-apr-1-2022-june-30-2022-budget-request/1980))
-- **Owner incentives:** `🚧 @TODO`
+- **Owner incentives:** none
 
 **Liquidity Observation Lab/reWARDS Committee** (`0x87D93d9B2C672bf9c9642d853a8682546a5012B5`)
 
 - **Threshold/owners:** 4/8
 - **Owner appointment:** Community members voted in through proposals ([source](https://research.lido.fi/t/proposal-to-form-rewards-committee/1447))
-- **Owner incentives:** `🚧 @TODO`
+- **Owner incentives:** none
 
 ### Galxe
 
@@ -268,18 +278,28 @@
 
 [Website](https://www.sushi.com/) | [X/Twitter](https://x.com/sushiswap)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0xe94B5EEC1fA96CEecbD33EF5Baa8d00E4493F4f3` | Ethereum | [Etherscan](https://etherscan.io/address/0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xe94B5EEC1fA96CEecbD33EF5Baa8d00E4493F4f3) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xe94B5EEC1fA96CEecbD33EF5Baa8d00E4493F4f3` | Ethereum | [Etherscan](https://etherscan.io/address/0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3) | [Safe](https://app.safe.global/eth:0xe94B5EEC1fA96CEecbD33EF5Baa8d00E4493F4f3) | [Multisight](https://multisight.app/safe/ethereum/0xe94B5EEC1fA96CEecbD33EF5Baa8d00E4493F4f3) |
+
+- **Threshold/owners:** 4/8
+- **Owner appointment:** Community members voted in through proposals and elections ([source](https://snapshot.org/#/sushigov.eth/proposal/bafkreidu53p4m7usk3ewi3jr7hnxvni3ce7qlwmqhwwgcfaq7jq2o37aie))
+- **Owner incentives:** 10000 USD in [USDC](https://www.coingecko.com/en/coins/usdc) per year ([source](https://forum.sushi.com/t/updated-treasury-multisig-signers/11156))
 
 ### Treasure
 
 [Website](https://treasure.lol/) | [X/Twitter](https://x.com/Treasure_DAO)
 
-| Address                                      | Network   | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :-------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A` | Etherum   | [Etherscan](https://etherscan.io/address/0xec834bd1f492a8bd5aa71023550c44d4fb14632a) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A) |
-| `0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576` | Arbitreum | [Arbiscan](https://arbiscan.io/address/0x0eb5b03c0303f2f47cd81d7be4275af8ed347576)   | Safe     | [Multisight](https://multisight.app/safe/arbitrum/0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                        | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------- |
+| `0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A` | Etherum  | [Etherscan](https://etherscan.io/address/0xec834bd1f492a8bd5aa71023550c44d4fb14632a) | [Safe](https://app.safe.global/eth:0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A)  | [Multisight](https://multisight.app/safe/ethereum/0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A) |
+| `0x4ef220fC6d1C8951AaB7b804b5b5EED21D7A5150` | Ethereum | [Etherscan](https://etherscan.io/address/0x4ef220fC6d1C8951AaB7b804b5b5EED21D7A5150) | [Safe](https://app.safe.global/eth:0x4ef220fC6d1C8951AaB7b804b5b5EED21D7A5150)  | [Multisight](https://multisight.app/safe/ethereum/0x4ef220fC6d1C8951AaB7b804b5b5EED21D7A5150) |
+| `0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576` | Arbitrum | [Arbiscan](https://arbiscan.io/address/0x0eb5b03c0303f2f47cd81d7be4275af8ed347576)   | [Safe](https://app.safe.global/arb1:0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576) | [Multisight](https://multisight.app/safe/arbitrum/0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576) |
+| `0x7700D22D373Bb433B56705914D114144e8caDad3` | Arbitrum | [Arbiscan](https://arbiscan.io/address/0x7700D22D373Bb433B56705914D114144e8caDad3)   | [Safe](https://app.safe.global/arb1:0x7700D22D373Bb433B56705914D114144e8caDad3) | [Multisight](https://multisight.app/safe/arbitrum/0x7700D22D373Bb433B56705914D114144e8caDad3) |
+
+- **Threshold/owners:** 3/5
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
 
 ### Olympus DAO
 
@@ -289,6 +309,10 @@
 | :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
 | `0x245cc372C84B3645Bf0Ffe6538620B04a217988B` | Ethereum | [Etherscan](https://etherscan.io/address/0x245cc372c84b3645bf0ffe6538620b04a217988b) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x245cc372C84B3645Bf0Ffe6538620B04a217988B) |
 
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
+
 ### Lore
 
 [Website](https://lore.xyz/) | [X/Twitter](https://x.com/loredotxyz)
@@ -297,11 +321,19 @@
 | :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
 | `0xE1498568D26C221655EB1a30B46Bd19e62d7c53e` | Ethereum | [Etherscan](https://etherscan.io/address/0xe1498568d26c221655eb1a30b46bd19e62d7c53e) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xE1498568D26C221655EB1a30B46Bd19e62d7c53e) |
 
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
+
 ### AnnoPay
 
 | Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
 | :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
 | `0x62eb616e74ad28B67018a8201e5A18F18f2eea90` | Ethereum | [Etherscan](https://etherscan.io/address/0x62eb616e74ad28b67018a8201e5a18f18f2eea90) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x62eb616e74ad28B67018a8201e5A18F18f2eea90) |
+
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
 
 ### CoW DAO
 
@@ -312,6 +344,10 @@
 | `0xcA771eda0c70aA7d053aB1B25004559B918FE662` | Ethereum | [Etherscan](https://etherscan.io/address/0xca771eda0c70aa7d053ab1b25004559b918fe662) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xcA771eda0c70aA7d053aB1B25004559B918FE662) |
 | `0x616dE58c011F8736fa20c7Ae5352F7f6FB9F0669` | Ethereum | [Etherscan](https://etherscan.io/address/0x616de58c011f8736fa20c7ae5352f7f6fb9f0669) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x616dE58c011F8736fa20c7Ae5352F7f6FB9F0669) |
 
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
+
 ### Onchainification Labs
 
 [Website](http://onchainification.xyz/) | [X/Twitter](https://x.com/onchain_xyz)
@@ -319,6 +355,10 @@
 | Address                                      | Network  | Explorer                                                                                                   | Provider | Analytics                                                                                     |
 | :------------------------------------------- | :------- | :--------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
 | `0xF55aB9D6eaaB0614073cC1da5C29b093F6e3Aebc` | Optimism | [Optimistic Etherscan](https://optimistic.etherscan.io/address/0xf55ab9d6eaab0614073cc1da5c29b093f6e3aebc) | Safe     | [Multisight](https://multisight.app/safe/optimism/0xF55aB9D6eaaB0614073cC1da5C29b093F6e3Aebc) |
+
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
 
 ### Nest Wallet
 
@@ -328,6 +368,10 @@
 | :------ | :------ | :------- | :------- | :-------- |
 | -       | -       | -        | -        | -         |
 
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
+
 ### Candide
 
 [Website](https://candide.dev/) | [X/Twitter](https://x.com/candidelabs)
@@ -335,6 +379,10 @@
 | Address | Network | Explorer | Provider | Analytics |
 | :------ | :------ | :------- | :------- | :-------- |
 | -       | -       | -        | -        | -         |
+
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
 
 ### AirSwap
 
@@ -345,14 +393,32 @@
 | `0x24B4ce3Ad4366b73F839C1B1Fd11D1F636514534` | Ethereum | [Etherscan](https://etherscan.io/address/0x24b4ce3ad4366b73f839c1b1fd11d1f636514534) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x24B4ce3Ad4366b73F839C1B1Fd11D1F636514534) |
 | `0xf8bB149F9525875Fa47B8CC632d368EB600FAba3` | Ethereum | [Etherscan](https://etherscan.io/address/0xf8bb149f9525875fa47b8cc632d368eb600faba3) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xf8bB149F9525875Fa47B8CC632d368EB600FAba3) |
 
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
+
 ### Badger DAO
 
 [Website](https://badger.com/) | [X/Twitter](https://x.com/badgerdao)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0xD0A7A8B98957b9CD3cFB9c0425AbE44551158e9e` | Ethereum | [Etherscan](https://etherscan.io/address/0xd0a7a8b98957b9cd3cfb9c0425abe44551158e9e) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xD0A7A8B98957b9CD3cFB9c0425AbE44551158e9e) |
-| `0x042B32Ac6b453485e357938bdC38e0340d4b9276` | Ethereum | [Etherscan](https://etherscan.io/address/0x042B32Ac6b453485e357938bdC38e0340d4b9276) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x042B32Ac6b453485e357938bdC38e0340d4b9276) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xD0A7A8B98957b9CD3cFB9c0425AbE44551158e9e` | Ethereum | [Etherscan](https://etherscan.io/address/0xd0a7a8b98957b9cd3cfb9c0425abe44551158e9e) | [Safe](https://app.safe.global/eth:0xD0A7A8B98957b9CD3cFB9c0425AbE44551158e9e) | [Multisight](https://multisight.app/safe/ethereum/0xD0A7A8B98957b9CD3cFB9c0425AbE44551158e9e) |
+| `0x042B32Ac6b453485e357938bdC38e0340d4b9276` | Ethereum | [Etherscan](https://etherscan.io/address/0x042B32Ac6b453485e357938bdC38e0340d4b9276) | [Safe](https://app.safe.global/eth:0x042B32Ac6b453485e357938bdC38e0340d4b9276) | [Multisight](https://multisight.app/safe/ethereum/0x042B32Ac6b453485e357938bdC38e0340d4b9276) |
+
+**Treasury Vault** (`0xD0A7A8B98957b9CD3cFB9c0425AbE44551158e9e`)
+
+- **Threshold/owners:** 5/9
+- **Owner appointment:** Community members voted in through proposal, changes are voted internally ([source](https://forum.badger.finance/t/bip-89-badgerdao-treasury-management-policy/5544))
+- **Owner incentives:** none (in most cases compensated through other roles)
+- **Notes:**
+  - DAO members have recognised that the multisig was often struggling to get all 5 signers ([source](https://docs.google.com/document/d/1WSUyYNRJmQeVvGfq_iA3klWohDjm6pdnEsAz43pd9tM/edit)), however no action has been taken so far
+
+**Treasury Operations** (`0x042B32Ac6b453485e357938bdC38e0340d4b9276`)
+
+- **Threshold/owners:** 3/9
+- **Owner appointment:** Community members voted in through proposal, changes are voted internally ([source](https://forum.badger.finance/t/bip-89-badgerdao-treasury-management-policy/5544))
+- **Owner incentives:** none (in most cases compensated through other roles)
 
 ### Cache Gold
 
@@ -362,33 +428,67 @@
 | :------ | :------ | :------- | :------- | :-------- |
 | -       | -       | -        | -        | -         |
 
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
+
 ### Bankless DAO
 
 [Website](https://www.bankless.community/) | [X/Twitter](https://x.com/banklessDAO)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51` | Ethereum | [Etherscan](https://etherscan.io/address/0xf26d1bb347a59f6c283c53156519cc1b1abaca51) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51` | Ethereum | [Etherscan](https://etherscan.io/address/0xf26d1bb347a59f6c283c53156519cc1b1abaca51) | [Safe](https://app.safe.global/eth:0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51) | [Multisight](https://multisight.app/safe/ethereum/0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51) |
 
-### Gearbox Finance
+- **Threshold/owners:** 4/7
+- **Owner appointment:** Community members voted in through elections ([source](https://snapshot.org/#/banklessvault.eth/proposal/0x092241f8160b6b3d0072e1c9c8d41f384c8778c8eda7b6ed97ee64645b32f2e1))
+- **Owner incentives:** none
+- **Notes:**
+  - Majority of multisig signers have been previously inactive ([source](https://forum.bankless.community/t/swapping-banklessdao-multi-signers-temp-check/5210))
+
+### Gearbox Protocol
 
 [Website](https://gearbox.fi/) | [X/Twitter](https://x.com/GearboxProtocol)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0x7b065Fcb0760dF0CEA8CFd144e08554F3CeA73D1` | Ethereum | [Etherscan](https://etherscan.io/address/0x7b065fcb0760df0cea8cfd144e08554f3cea73d1) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x7b065Fcb0760dF0CEA8CFd144e08554F3CeA73D1) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0x7b065Fcb0760dF0CEA8CFd144e08554F3CeA73D1` | Ethereum | [Etherscan](https://etherscan.io/address/0x7b065fcb0760df0cea8cfd144e08554f3cea73d1) | [Safe](https://app.safe.global/eth:0x7b065Fcb0760dF0CEA8CFd144e08554F3CeA73D1) | [Multisight](https://multisight.app/safe/ethereum/0x7b065Fcb0760dF0CEA8CFd144e08554F3CeA73D1) |
+| `0xA7D5DDc1b8557914F158076b228AA91eF613f1D5` | Ethereum | [Etherscan](https://etherscan.io/address/0xA7D5DDc1b8557914F158076b228AA91eF613f1D5) | [Safe](https://app.safe.global/eth:0xA7D5DDc1b8557914F158076b228AA91eF613f1D5) | [Multisight](https://multisight.app/safe/ethereum/0xA7D5DDc1b8557914F158076b228AA91eF613f1D5) |
 
+**Treasury multisig** (`0x7b065Fcb0760dF0CEA8CFd144e08554F3CeA73D1`)
+
+- **Threshold/owners:** 5/9
+- **Owner appointment:** Community members voted in through proposals ([source](https://snapshot.org/#/gearbox.eth/proposal/0x22b989fbf5fe1943540613894c34163e561920fc4d1b576316e5883eea5f56dc))
+- **Owner incentives:** 50000 [GEAR](https://www.coingecko.com/en/coins/gearbox) per 3 months ([source](https://snapshot.org/#/gearbox.eth/proposal/0x3f4eb1aac4d7dd5be1ec757aed377de210a9f9d795874d091f83c7d15870a8ce))
 - **Notes:**
-  - Implements a veto admin power (requiring 3/10 signs) to stop a erroneous or malicious transaction ([source](https://blog.gearbox.fi/v3-governance/))
+  - Identified lack of easily accessible resources on signer incentives ([source](https://gov.gearbox.fi/t/gip-11-token-compensation-for-tech-finance-multisig-members/936))
+
+**Technical multisig** (`0xA7D5DDc1b8557914F158076b228AA91eF613f1D5`)
+
+- **Threshold/owners:** 6/10
+- **Owner appointment:** Community members voted in through proposals ([source](https://snapshot.org/#/gearbox.eth/proposal/0x2419353c9c2ce08ed3b6ece59f1820f7bf3f51e851babbe9da1d38f8e149b83f))
+- **Owner incentives:** 87500 [GEAR](https://www.coingecko.com/en/coins/gearbox) per 3 months ([source](https://snapshot.org/#/gearbox.eth/proposal/0x3f4eb1aac4d7dd5be1ec757aed377de210a9f9d795874d091f83c7d15870a8ce))
 
 ### dYdX Foundation
 
 [Website](https://dydx.community) | [X/Twitter](https://x.com/dydxfoundation)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0xa8541f948411b3F95d9e89e8D339a56A9ed3D00b` | Ethereum | [Etherscan](https://etherscan.io/address/0xa8541f948411b3f95d9e89e8d339a56a9ed3d00b) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xa8541f948411b3F95d9e89e8D339a56A9ed3D00b) |
-| `0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1` | Ethereum | [Etherscan](https://etherscan.io/address/0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xa8541f948411b3F95d9e89e8D339a56A9ed3D00b` | Ethereum | [Etherscan](https://etherscan.io/address/0xa8541f948411b3f95d9e89e8d339a56a9ed3d00b) | [Safe](https://app.safe.global/eth:0xa8541f948411b3F95d9e89e8D339a56A9ed3D00b) | [Multisight](https://multisight.app/safe/ethereum/0xa8541f948411b3F95d9e89e8D339a56A9ed3D00b) |
+| `0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1` | Ethereum | [Etherscan](https://etherscan.io/address/0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1) | [Safe](https://app.safe.global/eth:0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1) | [Multisight](https://multisight.app/safe/ethereum/0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1) |
+
+**Operations Trust/subDAO** (`0xa8541f948411b3F95d9e89e8D339a56A9ed3D00b`)
+
+- **Threshold/owners:** 3/5
+- **Owner appointment:** Community members voted in through proposals ([source](https://snapshot.org/#/dydxgov.eth/proposal/0x51659bfec4948e80c0b85316d3098e62ab085a95033f1c0fe6bcc72db3ebe814))
+- **Owner incentives:** portion of 6600 USD per 6 months (role includes other duties) ([source](https://dydx.forum/t/drc-dydx-operations-trust/21))
+
+**dYdX Operations Services** (`0x6cf34d8c190e9102129301Ad13f4505FfE32B3c1`)
+
+- **Threshold/owners:** 2/3
+- **Owner appointment:** Community members ([source](https://dydx.forum/t/dydx-operations-subdao-update-2/1394))
+- **Owner incentives:** n/a
 
 ### Hop DAO
 
@@ -400,41 +500,58 @@
 | `0x60224984338dede521c56dee7a09e446a5a163f4` | Ethereum | [Etherscan](https://etherscan.io/address/0x60224984338dede521c56dee7a09e446a5a163f4)                       | Safe       | [Multisight](https://multisight.app/safe/ethereum/0x60224984338DeDe521C56DEE7a09e446A5a163f4) |
 | `0xeeA8422a08258e73c139Fc32a25e10410c14bd7a` | Optimism | [Optimistic Etherscan](https://optimistic.etherscan.io/address/0xc988107688b750dee6237b85a3ca49ba0a65dab0) | Safe       | [Multisight](https://multisight.app/safe/optimism/0xC988107688b750dee6237B85A3ca49ba0a65DaB0) |
 
-### Swapr
-
-[Website](https://swapr.eth.limo/) | [X/Twitter](https://x.com/Swapr_dapp)
-
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0x4942fbdc53B295563d59Af51e6DDEdceba5E332f` | Ethereum | [Etherscan](https://etherscan.io/address/0x4942fbdc53b295563d59af51e6ddedceba5e332f) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x4942fbdc53B295563d59Af51e6DDEdceba5E332f) |
-| `0xa953dEaDE87de58c5D539bF4104d233166C17827` | Ethereum | [Etherscan](https://etherscan.io/address/0xa953deade87de58c5d539bf4104d233166c17827) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xa953dEaDE87de58c5D539bF4104d233166C17827) |
-| `0xAeCf31a3DC990eB76125f9AbC0c4B66CBF1BAA04` | Ethereum | [Etherscan](https://etherscan.io/address/0xaecf31a3dc990eb76125f9abc0c4b66cbf1baa04) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xAeCf31a3DC990eB76125f9AbC0c4B66CBF1BAA04) |
-| `0x199CefA72F486E4F6265DB30fF726afc6d22a0b3` | Ethereum | [Etherscan](https://etherscan.io/address/0x199cefa72f486e4f6265db30ff726afc6d22a0b3) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x199CefA72F486E4F6265DB30fF726afc6d22a0b3) |
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
 
 ### ParaSwap DAO
 
 [Website](https://www.paraswap.io/) | [X/Twitter](https://x.com/paraswap)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0x5A61D9214adEFD7669428a03A4e8734A00E9F464` | Ethereum | [Etherscan](https://etherscan.io/address/0x5a61d9214adefd7669428a03a4e8734a00e9f464) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x5A61D9214adEFD7669428a03A4e8734A00E9F464) |
-| `0xfe98240ddAEDF78E278C28F1EdD690ee1a774e66` | Arbitrum | [Arbiscan](https://arbiscan.io/address/0xfe98240ddaedf78e278c28f1edd690ee1a774e66)   | Safe     | [Multisight](https://multisight.app/safe/arbitrum/0xfe98240ddAEDF78E278C28F1EdD690ee1a774e66) |
+| Address                                      | Network  | Explorer                                                                                                   | Provider                                                                        | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------- |
+| `0x5A61D9214adEFD7669428a03A4e8734A00E9F464` | Ethereum | [Etherscan](https://etherscan.io/address/0x5a61d9214adefd7669428a03a4e8734a00e9f464)                       | [Safe](https://app.safe.global/eth:0x5A61D9214adEFD7669428a03A4e8734A00E9F464)  | [Multisight](https://multisight.app/safe/ethereum/0x5A61D9214adEFD7669428a03A4e8734A00E9F464) |
+| `0xfe98240ddAEDF78E278C28F1EdD690ee1a774e66` | Arbitrum | [Arbiscan](https://arbiscan.io/address/0xfe98240ddaedf78e278c28f1edd690ee1a774e66)                         | [Safe](https://app.safe.global/arb1:0xfe98240ddAEDF78E278C28F1EdD690ee1a774e66) | [Multisight](https://multisight.app/safe/arbitrum/0xfe98240ddAEDF78E278C28F1EdD690ee1a774e66) |
+| `0xd6ABD29a331eDB915D0eE8597Df50D453F98c7c5` | Arbitrum | [Arbiscan](https://arbiscan.io/address/0xd6abd29a331edb915d0ee8597df50d453f98c7c5)                         | [Safe](https://app.safe.global/arb1:0xd6abd29a331edb915d0ee8597df50d453f98c7c5) | [Multisight](https://multisight.app/safe/arbitrum/0xd6ABD29a331eDB915D0eE8597Df50D453F98c7c5) |
+| `0xd6ABD29a331eDB915D0eE8597Df50D453F98c7c5` | Optimism | [Optimisitc Etherscan](https://optimistic.etherscan.io/address/0xd6ABD29a331eDB915D0eE8597Df50D453F98c7c5) | [Safe](https://app.safe.global/oeth:0xd6ABD29a331eDB915D0eE8597Df50D453F98c7c5) | [Multisight](https://multisight.app/safe/optimism/0xd6ABD29a331eDB915D0eE8597Df50D453F98c7c5) |
+
+**ParaSwap DAO** (`0x5A61D9214adEFD7669428a03A4e8734A00E9F464`, `0xfe98240ddAEDF78E278C28F1EdD690ee1a774e66`)
+
+- **Threshold/owners:** 6/10
+- **Owner appointment:** Community members voted in through proposal ([source](https://snapshot.org/#/paraswap-dao.eth/proposal/0xc70197377555793038036510dae878694786a9dd33d7839aef6c09851a52314c))
+- **Owner incentives:** 1000 USD in [PSP](https://www.coingecko.com/en/coins/paraswap) per month ([source](https://snapshot.org/#/paraswap-dao.eth/proposal/0xc70197377555793038036510dae878694786a9dd33d7839aef6c09851a52314c))
+
+**ParaTroopers** (`0xd6ABD29a331eDB915D0eE8597Df50D453F98c7c5`)
+
+- **Threshold/owners:** 3/4
+- **Owner appointment:** Community members voted in through proposal for 3 months ([source](https://snapshot.org/#/paraswap-dao.eth/proposal/0xa47b38d6d4db07e75b42e890493aa1d73074039ea24a178e36c0470173d1b6ef))
+- **Owner incentives:** 1500 USD per 3 months ([source](https://snapshot.org/#/paraswap-dao.eth/proposal/0xa47b38d6d4db07e75b42e890493aa1d73074039ea24a178e36c0470173d1b6ef))
 
 ### Klima DAO
 
 [Website](https://www.klimadao.finance/) | [X/Twitter](https://x.com/KlimaDAO)
 
-| Address                                      | Network | Explorer                                                                                  | Provider | Analytics                                                                                    |
-| :------------------------------------------- | :------ | :---------------------------------------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------------- |
-| `0x65A5076C0BA74e5f3e069995dc3DAB9D197d995c` | Polygon | [Polygonscan](https://polygonscan.com/address/0x65a5076c0ba74e5f3e069995dc3dab9d197d995c) | Safe     | [Multisight](https://multisight.app/safe/polygon/0x65A5076C0BA74e5f3e069995dc3DAB9D197d995c) |
+| Address                                      | Network | Explorer                                                                                  | Provider                                                                         | Analytics                                                                                    |
+| :------------------------------------------- | :------ | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| `0x65A5076C0BA74e5f3e069995dc3DAB9D197d995c` | Polygon | [Polygonscan](https://polygonscan.com/address/0x65a5076c0ba74e5f3e069995dc3dab9d197d995c) | [Safe](https://app.safe.global/matic:0x65A5076C0BA74e5f3e069995dc3DAB9D197d995c) | [Multisight](https://multisight.app/safe/polygon/0x65A5076C0BA74e5f3e069995dc3DAB9D197d995c) |
+
+- **Threshold/owners:** 3/5
+- **Owner appointment:** Core project members ([source](https://docs.klimadao.finance/developers/contracts/dao-wallet))
+- **Owner incentives:** none (compensated as core contributors)
 
 ### Mutant Cats DAO
 
 [Website](https://mutantverse.io/) | [X/Twitter](https://x.com/mutantcatsDAO)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0xb25a1D02B029d53212e4c356B6DaaD419762E606` | Ethereum | [Etherscan](https://etherscan.io/address/0xb25a1d02b029d53212e4c356b6daad419762e606) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xb25a1D02B029d53212e4c356B6DaaD419762E606) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xb25a1D02B029d53212e4c356B6DaaD419762E606` | Ethereum | [Etherscan](https://etherscan.io/address/0xb25a1d02b029d53212e4c356b6daad419762e606) | [Safe](https://app.safe.global/eth:0xb25a1D02B029d53212e4c356B6DaaD419762E606) | [Multisight](https://multisight.app/safe/ethereum/0xb25a1D02B029d53212e4c356B6DaaD419762E606) |
+
+- **Threshold/owners:** 4/7
+- **Owner appointment:** Community members voted in through elections ([source](https://snapshot.org/#/mutantsdao.eth/proposal/0x520c7fd133773ff14607bdbe8208865caaef521db80bc0489fb773ca79e9af32))
+- **Owner incentives:** 0.3 [ETH](https://www.coingecko.com/en/coins/ethereum) per month ([source](https://snapshot.org/#/mutantsdao.eth/proposal/0xb966511441e425ef3ff740334e0db0c81a5a00044411bf4cba5c0039acd4bfb7))
+- **Notes:**
+  - DAO had issues coordinating transaction signings ([soruce](https://snapshot.org/#/mutantsdao.eth/proposal/0x6b912a06260571bedcdac619c3d0512223eb09cc052bf10897239faa849bc90f))
 
 ### Index Coop
 
@@ -446,26 +563,32 @@
 | `0x3a36b94689f303aAf9BFE761068Efb8F78912023` | Ethereum | [Etherscan](https://etherscan.io/address/0x3a36b94689f303aAf9BFE761068Efb8F78912023) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x3a36b94689f303aAf9BFE761068Efb8F78912023) |
 | `0x462A63D4405A6462b157341A78Fd1baBfD3F8065` | Ethereum | [Etherscan](https://etherscan.io/address/0x462A63D4405A6462b157341A78Fd1baBfD3F8065) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x462A63D4405A6462b157341A78Fd1baBfD3F8065) |
 
-### Decentral Games
-
-[Website](https://decentral.games/) | [X/Twitter](https://x.com/decentralgames)
-
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0x99cEF4A71d42C131fd20c0f24f30b0Eb0b22792C` | Ethereum | [Etherscan](https://etherscan.io/address/0x99cef4a71d42c131fd20c0f24f30b0eb0b22792c) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x99cEF4A71d42C131fd20c0f24f30b0Eb0b22792C) |
+- **Threshold/owners:** `🚧 @TODO`
+- **Owner appointment:** `🚧 @TODO`
+- **Owner incentives:** `🚧 @TODO`
 
 ### Beefy DAO
 
-[Website](https://beefy.finance/) | [X/Twitter]https://twitter.com/beefyfinance)
+[Website](https://beefy.finance/) | [X/Twitter](https://twitter.com/beefyfinance)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0xc9C61194682a3A5f56BF9Cd5B59EE63028aB6041` | Ethereum | [Etherscan](https://etherscan.io/address/0xc9c61194682a3a5f56bf9cd5b59ee63028ab6041) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0xc9C61194682a3A5f56BF9Cd5B59EE63028aB6041) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xc9C61194682a3A5f56BF9Cd5B59EE63028aB6041` | Ethereum | [Etherscan](https://etherscan.io/address/0xc9c61194682a3a5f56bf9cd5b59ee63028ab6041) | [Safe](https://app.safe.global/eth:0xc9C61194682a3A5f56BF9Cd5B59EE63028aB6041) | [Multisight](https://multisight.app/safe/ethereum/0xc9C61194682a3A5f56BF9Cd5B59EE63028aB6041) |
+
+- **Threshold/owners:** 4/8
+- **Owner appointment:** Core contributors voted in through proposal
+- **Owner incentives:** none (compensated as core contributors)
 
 ### City DAO
 
 [Website](https://www.citydao.io/) | [X/Twitter](https://x.com/citydao)
 
-| Address                                      | Network  | Explorer                                                                             | Provider | Analytics                                                                                     |
-| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- |
-| `0x60e7343205C9C88788a22C40030d35f9370d302D` | Ethereum | [Etherscan](https://etherscan.io/address/0x60e7343205c9c88788a22c40030d35f9370d302d) | Safe     | [Multisight](https://multisight.app/safe/ethereum/0x60e7343205C9C88788a22C40030d35f9370d302D) |
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0x60e7343205C9C88788a22C40030d35f9370d302D` | Ethereum | [Etherscan](https://etherscan.io/address/0x60e7343205c9c88788a22c40030d35f9370d302d) | [Safe](https://app.safe.global/eth:0x60e7343205C9C88788a22C40030d35f9370d302D) | [Multisight](https://multisight.app/safe/ethereum/0x60e7343205C9C88788a22C40030d35f9370d302D) |
+
+- **Threshold/owners:** 5/8
+- **Owner appointment:** Appointed by the governance body; proposed to be in terms of 6 months ([source](https://snapshot.org/#/daocity.eth/proposal/0x521beca887a237623fc4c236975e3e272839cbe3db7dbfe13deaf31582d4fc74))
+- **Owner incentives:** none; 100 USD per month proposed ([source](https://snapshot.org/#/daocity.eth/proposal/0x521beca887a237623fc4c236975e3e272839cbe3db7dbfe13deaf31582d4fc74))
+- **Notes:**
+  - Multisig has repeatedly struggled to confirm transactions ([source](https://forum.citydao.io/t/cip-145-citydao-elections-multi-sig/2053), [source](https://forum.citydao.io/t/cip-202-city-council-2-0-international-v-2/2272/3))
