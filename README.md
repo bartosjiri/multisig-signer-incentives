@@ -16,15 +16,17 @@ However, it is not always clear how to fairly reward individual signers as infor
 
 [→ Mirror article](https://mirror.xyz/0xCE856Cbf191ea3DdB70A6DC9D16CA95a598C9f65/PwD916DYAoK0YmnkfZ8wxRzgTbkW4dRVYSxzitUiURc)
 
-## Data
+## Resources
 
-The data have been collected through manual searches on available public resources of various web3 projects and a community survey at [Multisight](https://multisight.app/research) between October 11th and December 1st, 2023.
+The research collects data from publicly available resources and through discussions with individual project members. The data is categorized into existing setups and related discussions, articles, and thoughts on the topic.
 
-[→ Data](./data/)
+[→ Setups collection](./resources/setups-collection/)
+
+→ Discourse collection (`🚧 WIP`)
 
 ## Outcomes
 
-`🚧 To be done`
+`🚧 WIP`
 
 ## Acknowledgement
 
@@ -34,6 +36,4 @@ This research is made possible thanks to the support from the [Safe](https://saf
 
 ## Disclaimer
 
-All data in this repository is collected from publicly available resources or from a survey with user agreement.
-
-The data may not be up-to-date.
+All data in this repository has been collected from publicly available resources or through discussions with users with their agreement.
