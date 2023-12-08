@@ -290,7 +290,7 @@ Data without a source has, in most cases, been collected through survey or direc
 
 - **Threshold/owners:** 6/9
 - **Signer appointment:** Community members voted in through elections ([source](https://community.galxe.org/t/community-treasury-and-multi-sig-signers/394))
-- **Signer incentives:** `🚧 @TODO`
+- **Signer incentives:** n/a
 
 ### Sushi
 
@@ -452,10 +452,10 @@ Data without a source has, in most cases, been collected through survey or direc
 
 [Website](https://cache.gold/) | [X/Twitter](https://x.com/cache_gold)
 
-| Address                                      | Network  | Explorer | Provider  | Analytics |
-| :------------------------------------------- | :------- | :------- | :-------- | :-------- |
-| `0x3AB9c31148789570f51180a3eF7107E16c4B234c` | Ethereum | -        | ConsenSys | -         |
-| `0x6522B05FE48d274f14559E0391BE3675E6A1AC91` | Ethereum | -        | ConsenSys | -         |
+| Address                                      | Network  | Explorer                                                                             | Provider  | Analytics |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :-------- | :-------- |
+| `0x3AB9c31148789570f51180a3eF7107E16c4B234c` | Ethereum | [Etherscan](https://etherscan.io/address/0x3ab9c31148789570f51180a3ef7107e16c4b234c) | ConsenSys | -         |
+| `0x6522B05FE48d274f14559E0391BE3675E6A1AC91` | Ethereum | [Etherscan](https://etherscan.io/address/0x6522B05FE48d274f14559E0391BE3675E6A1AC91) | ConsenSys | -         |
 
 - **Threshold/owners:** n/a
 - **Signer appointment:** Core project members
@@ -630,3 +630,75 @@ Data without a source has, in most cases, been collected through survey or direc
 - **Signer incentives:** none; 100 USD per month proposed ([source](https://snapshot.org/#/daocity.eth/proposal/0x521beca887a237623fc4c236975e3e272839cbe3db7dbfe13deaf31582d4fc74))
 - **Notes:**
   - Multisig has repeatedly struggled to confirm transactions ([source](https://forum.citydao.io/t/cip-145-citydao-elections-multi-sig/2053), [source](https://forum.citydao.io/t/cip-202-city-council-2-0-international-v-2/2272/3))
+
+### Yearn
+
+[Website](https://yearn.fi/) | [X/Twitter](https://twitter.com/yearnfi)
+
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52` | Ethereum | [Etherscan](https://etherscan.io/address/0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52) | [Safe](https://app.safe.global/eth:0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52) | [Multisight](https://multisight.app/safe/ethereum/0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52) |
+
+- **Threshold/owners:** 6/9
+- **Signer appointment:** Community members voted in through proposals ([source](https://gov.yearn.fi/t/yip-61-governance-2-0/10460#the-multisig-10))
+- **Signer incentives:** 1 [YFI](https://www.coingecko.com/en/coins/yearn-finance) vested over 3 years ([source](https://gov.yearn.fi/t/yearn-retention-packages/9698))
+- **Notes:**
+
+  - Project previously rotated signers due to inactivity ([source](https://snapshot.org/#/ybaby.eth/proposal/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF), [source](https://snapshot.org/#/ybaby.eth/proposal/0xc5386b7237f6c90359c56ac6dcb942b99a56a4de8ca60d109f4b999716148734))
+
+### mStable
+
+[Website](https://mstable.org/) | [X/Twitter](https://twitter.com/mstable_)
+
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0x3dd46846eed8D147841AE162C8425c08BD8E1b41` | Ethereum | [Etherscan](https://etherscan.io/address/0x3dd46846eed8D147841AE162C8425c08BD8E1b41) | [Safe](https://app.safe.global/eth:0x3dd46846eed8D147841AE162C8425c08BD8E1b41) | [Multisight](https://multisight.app/safe/ethereum/0x3dd46846eed8D147841AE162C8425c08BD8E1b41) |
+| `0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2` | Ethereum | [Etherscan](https://etherscan.io/address/0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2) | [Safe](https://app.safe.global/eth:0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2) | [Multisight](https://multisight.app/safe/ethereum/0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2) |
+
+**TreasuryDAO** (`0x3dd46846eed8D147841AE162C8425c08BD8E1b41`)
+
+- **Threshold/owners:** 3/5
+- **Signer appointment:** Core members voted in through proposals and community members voted in through election for 6 months ([source](https://forum.mstable.org/t/pdp-37-community-signer-election/696))
+- **Signer incentives:** 1000 USD in [MTA](https://www.coingecko.com/en/coins/meta) per month
+
+**ProtocolDAO** (`0xF6FF1F7FCEB2cE6d26687EaaB5988b445d0b94a2`)
+
+- **Threshold/owners:** 3/5
+- **Signer appointment:** Core members voted in through proposals and community members voted in through election for 6 months ([source](https://forum.mstable.org/t/pdp-37-community-signer-election/696))
+- **Signer incentives:** 1000 USD in [MTA](https://www.coingecko.com/en/coins/meta) per month
+
+### Synthetix
+
+[Website](https://synthetix.io/) | [X/Twitter](https://twitter.com/synthetix_io)
+
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0x99f4176ee457afedffcb1839c7ab7a030a5e4a92` | Ethereum | [Etherscan](https://etherscan.io/address/0x99f4176ee457afedffcb1839c7ab7a030a5e4a92) | [Safe](https://app.safe.global/eth:0x99f4176ee457afedffcb1839c7ab7a030a5e4a92) | [Multisight](https://multisight.app/safe/ethereum/0x99f4176ee457afedffcb1839c7ab7a030a5e4a92) |
+
+- **Threshold/owners:** 3/4
+- **Signer appointment:** Community members voted in through elections every 4 months ([source](https://docs.synthetix.io/dao/elections-and-voting))
+- **Signer incentives:** 2000 [SNX](https://www.coingecko.com/en/coins/synthetix-network-token) per month ([source](https://governance.synthetix.io/councils))
+
+### Ribbon Finance
+
+[Website](https://www.ribbon.finance/) | [X/Twitter](https://twitter.com/aevoxyz)
+
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0xdaeada3d210d2f45874724beea03c7d4bbd41674` | Ethereum | [Etherscan](https://etherscan.io/address/0xdaeada3d210d2f45874724beea03c7d4bbd41674) | [Safe](https://app.safe.global/eth:0xdaeada3d210d2f45874724beea03c7d4bbd41674) | [Multisight](https://multisight.app/safe/ethereum/0xdaeada3d210d2f45874724beea03c7d4bbd41674) |
+
+- **Threshold/owners:** 4/6
+- **Signer appointment:** Community members voted in through proposals ([source](https://gov.ribbon.finance/t/rgp-3-ribbon-tokenomics-dao-multisig-committee/160))
+- **Signer incentives:** 1000 [RBN](https://www.coingecko.com/en/coins/ribbon-finance) per month ([source](https://gov.ribbon.finance/t/rgp-15-reshuffling-ribbon-dao-multisig/569))
+
+### 1inch DAO
+
+[Website](https://1inch.io/) | [X/Twitter](https://twitter.com/1inch)
+
+| Address                                      | Network  | Explorer                                                                             | Provider                                                                       | Analytics                                                                                     |
+| :------------------------------------------- | :------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| `0x7951c7ef839e26F63DA87a42C9a87986507f1c07` | Ethereum | [Etherscan](https://etherscan.io/address/0x7951c7ef839e26F63DA87a42C9a87986507f1c07) | [Safe](https://app.safe.global/eth:0x7951c7ef839e26F63DA87a42C9a87986507f1c07) | [Multisight](https://multisight.app/safe/ethereum/0x7951c7ef839e26F63DA87a42C9a87986507f1c07) |
+
+- **Threshold/owners:** 7/12
+- **Signer appointment:** Core project members ([source](https://docs.1inch.io/docs/governance/dao-treasury/))
+- **Signer incentives:** n/a
