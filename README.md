@@ -22,7 +22,7 @@ The research collects data from publicly available resources and through discuss
 
 [→ Setups collection](./resources/setups-collection/)
 
-→ Discourse collection (`🚧 WIP`)
+[→ Discourse collection](./resources/discourse-collection/)
 
 ## Outcomes
 
