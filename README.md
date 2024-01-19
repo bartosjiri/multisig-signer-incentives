@@ -1,11 +1,5 @@
 ![Repository header image](/assets/repo-header.png)
 
----
-
-🚧 The research is currently ongoing, and the data in the repository are subject to change. 🚧
-
----
-
 ## Introduction
 
 DAOs and other collaborative projects frequently utilize multisignature wallets to manage shared assets. Aiming for decentralization and safety, the adoption of multiple signers is a good practice to enhance decentralization by distributing responsibility and minimizing the risk of a single point of failure. Acknowledging the time and effort invested through the signer role, it is reasonable to also set up a signer incentive system.
@@ -26,7 +20,13 @@ The research collects data from publicly available resources and through discuss
 
 ## Outcomes
 
-`🚧 WIP`
+[→ Document](./outcomes/document/)
+
+[→ Infographics](./outcomes/infographics/)
+
+[→ Mirror article](https://mirror.xyz/0xCE856Cbf191ea3DdB70A6DC9D16CA95a598C9f65/rBijDfNnWhEacC30hxscjT0HGmkVVJJWT3bF63XAvns)
+
+[→ Educational website page](https://multisight.app/research)
 
 ## Acknowledgement
 
